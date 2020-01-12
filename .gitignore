@@ -3,4 +3,3 @@ worm.db.index
 worm.db.lock
 worm.db.tmp
 data_source_directories
-data_source_data
