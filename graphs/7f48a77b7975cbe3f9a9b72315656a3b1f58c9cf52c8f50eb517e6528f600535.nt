@@ -21,6 +21,9 @@
 <http://openworm.org/entities/ConnectomeCSVDataSource/Shterionov2011_connections> <http://openworm.org/entities/data_sources/CSVDataSource#csv_file_name> "connectome.csv" .
 <http://openworm.org/entities/ConnectomeCSVDataSource/Shterionov2011_connections> <http://openworm.org/entities/data_sources/LocalFileDataSource#file_name> "connectome.csv" .
 <http://openworm.org/entities/ConnectomeCSVDataSource/Shterionov2011_connections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/ConnectomeCSVDataSource> .
+<http://openworm.org/entities/GenericTranslation/a2ec7710fdc7afb0f984cf0dd22fc82c7> <http://openworm.org/entities/GenericTranslation/source> <http://openworm.org/entities/WormBaseCSVDataSource/WormBaseCSVDataSource> .
+<http://openworm.org/entities/GenericTranslation/a2ec7710fdc7afb0f984cf0dd22fc82c7> <http://openworm.org/entities/Translation/translator> <http://openworm.org/entities/translators/WormbaseIDSetter> .
+<http://openworm.org/entities/GenericTranslation/a2ec7710fdc7afb0f984cf0dd22fc82c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/GenericTranslation> .
 <http://openworm.org/entities/GenericTranslation/a51bc4495e321f3ab7e4491bbe6625c42> <http://openworm.org/entities/GenericTranslation/source> <http://openworm.org/entities/data_sources/WormbaseTextMatchCSVDataSource#WormbaseTextMatchCSVChannelNeuronDataSource> .
 <http://openworm.org/entities/GenericTranslation/a51bc4495e321f3ab7e4491bbe6625c42> <http://openworm.org/entities/Translation/translator> <http://openworm.org/entities/translators/WormbaseTextMatchCSVTranslator> .
 <http://openworm.org/entities/GenericTranslation/a51bc4495e321f3ab7e4491bbe6625c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/GenericTranslation> .
@@ -65,7 +68,9 @@
 <http://openworm.org/entities/NeuronConnectomeCSVTranslation/a668d7e08a931b769f9c4c2e04954a042> <http://openworm.org/entities/NeuronConnectomeCSVTranslation/neurons_source> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#Neurons> .
 <http://openworm.org/entities/NeuronConnectomeCSVTranslation/a668d7e08a931b769f9c4c2e04954a042> <http://openworm.org/entities/Translation/translator> <http://openworm.org/entities/translators/NeuronConnectomeCSVTranslator> .
 <http://openworm.org/entities/NeuronConnectomeCSVTranslation/a668d7e08a931b769f9c4c2e04954a042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/NeuronConnectomeCSVTranslation> .
+<http://openworm.org/entities/PythonClassDescription/a304039cfb685de741ffe1620fed37d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/PythonClassDescription> .
 <http://openworm.org/entities/PythonClassDescription/a86d147c2b9d137ac31d942063f3a74aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/PythonClassDescription> .
+<http://openworm.org/entities/PythonModule/a957fe3f0995cb83585146514bd8bbd6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/PythonModule> .
 <http://openworm.org/entities/PythonModule/owmeta.data_trans.context_merge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/PythonModule> .
 <http://openworm.org/entities/WormAtlasCellListDataSource/WormAtlasCellList> <http://openworm.org/entities/data_sources/CSVDataSource#csv_field_delimiter> "	" .
 <http://openworm.org/entities/WormAtlasCellListDataSource/WormAtlasCellList> <http://openworm.org/entities/data_sources/CSVDataSource#csv_file_name> "C. elegans Cell List - WormAtlas.tsv" .
@@ -178,6 +183,16 @@
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#a97b1cef5e11926f12b0b1b42069d2a04> <http://www.w3.org/2000/01/rdf-schema#comment> "Main OpenWorm Connections data source" .
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#a97b1cef5e11926f12b0b1b42069d2a04-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context> .
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#a97b1cef5e11926f12b0b1b42069d2a04-evidence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://openworm.org/entities/data_sources/DataSource#source> <http://openworm.org/entities/WormBaseCSVDataSource/WormBaseCSVDataSource> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://openworm.org/entities/data_sources/DataSource#translation> <http://openworm.org/entities/GenericTranslation/a2ec7710fdc7afb0f984cf0dd22fc82c7> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#combined_context> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#data_context> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e-data> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#evidence_context> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e-evidence> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/DataWithEvidenceDataSource> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context#variable> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context#variable> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e-evidence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context#variable> .
+<http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#abf2e37bf38fbd9c34419a607c7c41e0e/context_for?document=http://openworm.org/entities/Website/wormbase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context> .
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#ac96ad894c9bb6f515725f80ad7f8a249> <http://openworm.org/entities/data_sources/DataSource#source> <http://openworm.org/entities/data_sources/WormbaseTextMatchCSVDataSource#WormbaseTextMatchCSVChannelNeuronDataSource> .
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#ac96ad894c9bb6f515725f80ad7f8a249> <http://openworm.org/entities/data_sources/DataSource#translation> <http://openworm.org/entities/GenericTranslation/a51bc4495e321f3ab7e4491bbe6625c42> .
 <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#ac96ad894c9bb6f515725f80ad7f8a249> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#combined_context> <http://openworm.org/entities/data_sources/DataWithEvidenceDataSource#ac96ad894c9bb6f515725f80ad7f8a249> .
@@ -224,6 +239,8 @@
 <http://openworm.org/entities/translators/NeuronConnectomeSynapseClassTranslator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/NeuronConnectomeSynapseClassTranslator> .
 <http://openworm.org/entities/translators/NeuronWormBaseCSVTranslator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/NeuronWormBaseCSVTranslator> .
 <http://openworm.org/entities/translators/WormAtlasCellListDataTranslator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/WormAtlasCellListDataTranslator> .
+<http://openworm.org/entities/translators/WormbaseIDSetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/DataTranslator> .
+<http://openworm.org/entities/translators/WormbaseIDSetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/WormbaseIDSetter> .
 <http://openworm.org/entities/translators/WormbaseIonChannelCSVTranslator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/WormbaseIonChannelCSVTranslator> .
 <http://openworm.org/entities/translators/WormbaseTextMatchCSVTranslator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/WormbaseTextMatchCSVTranslator> .
 
