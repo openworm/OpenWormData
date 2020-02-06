@@ -5,6 +5,7 @@
 <http://openworm.org/entities/Evidence/supports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://openworm.org/entities/Experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://openworm.org/entities/Experiment> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://openworm.org/entities/DataObject> .
+<http://openworm.org/entities/Experiment/reference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://openworm.org/entities/PythonClassDescription/ab9c1ce8723f0a8121d666eb094824da6> <http://openworm.org/entities/ClassDescription/module> <http://openworm.org/entities/PythonModule/owmeta.evidence> .
 <http://openworm.org/entities/PythonClassDescription/ab9c1ce8723f0a8121d666eb094824da6> <http://openworm.org/entities/PythonClassDescription/name> "Evidence" .
 <http://openworm.org/entities/PythonClassDescription/ab9c1ce8723f0a8121d666eb094824da6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/PythonClassDescription> .
