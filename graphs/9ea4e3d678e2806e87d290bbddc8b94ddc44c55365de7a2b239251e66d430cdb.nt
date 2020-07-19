@@ -1,5 +1,5 @@
-<http://openworm.org/entities/Neuron/RIH> <http://openworm.org/entities/Cell/name> "RIH" .
-<http://openworm.org/entities/Neuron/RIH> <http://openworm.org/entities/Neuron/neurotransmitter> "Serotonin" .
-<http://openworm.org/entities/Neuron/RIH> <http://openworm.org/entities/Neuron/type> "interneuron" .
-<http://openworm.org/entities/Neuron/RIH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/RIH> <http://schema.openworm.org/2020/07/Cell/name> "RIH" .
+<http://schema.openworm.org/2020/07/Neuron/RIH> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Serotonin" .
+<http://schema.openworm.org/2020/07/Neuron/RIH> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
+<http://schema.openworm.org/2020/07/Neuron/RIH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 

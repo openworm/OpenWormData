@@ -1,9 +1,9 @@
-<http://openworm.org/entities/Neuron/RMGL> <http://openworm.org/entities/Cell/name> "RMGL" .
-<http://openworm.org/entities/Neuron/RMGL> <http://openworm.org/entities/Neuron/neuropeptide> "PDF-1" .
-<http://openworm.org/entities/Neuron/RMGL> <http://openworm.org/entities/Neuron/type> "interneuron" .
-<http://openworm.org/entities/Neuron/RMGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
-<http://openworm.org/entities/Neuron/RMGR> <http://openworm.org/entities/Cell/name> "RMGR" .
-<http://openworm.org/entities/Neuron/RMGR> <http://openworm.org/entities/Neuron/neuropeptide> "PDF-1" .
-<http://openworm.org/entities/Neuron/RMGR> <http://openworm.org/entities/Neuron/type> "interneuron" .
-<http://openworm.org/entities/Neuron/RMGR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/RMGL> <http://schema.openworm.org/2020/07/Cell/name> "RMGL" .
+<http://schema.openworm.org/2020/07/Neuron/RMGL> <http://schema.openworm.org/2020/07/Neuron/neuropeptide> "PDF-1" .
+<http://schema.openworm.org/2020/07/Neuron/RMGL> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
+<http://schema.openworm.org/2020/07/Neuron/RMGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/RMGR> <http://schema.openworm.org/2020/07/Cell/name> "RMGR" .
+<http://schema.openworm.org/2020/07/Neuron/RMGR> <http://schema.openworm.org/2020/07/Neuron/neuropeptide> "PDF-1" .
+<http://schema.openworm.org/2020/07/Neuron/RMGR> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
+<http://schema.openworm.org/2020/07/Neuron/RMGR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 

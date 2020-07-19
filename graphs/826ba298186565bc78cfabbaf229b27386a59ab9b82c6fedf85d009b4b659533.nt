@@ -1,4 +1,4 @@
-<http://openworm.org/entities/Neuron/PDA> <http://openworm.org/entities/Cell/name> "PDA" .
-<http://openworm.org/entities/Neuron/PDA> <http://openworm.org/entities/Neuron/receptor> "SER-2" .
-<http://openworm.org/entities/Neuron/PDA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/PDA> <http://schema.openworm.org/2020/07/Cell/name> "PDA" .
+<http://schema.openworm.org/2020/07/Neuron/PDA> <http://schema.openworm.org/2020/07/Neuron/receptor> "SER-2" .
+<http://schema.openworm.org/2020/07/Neuron/PDA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 

@@ -1,7 +1,7 @@
-<http://openworm.org/entities/Neuron/I5> <http://openworm.org/entities/Cell/name> "I5" .
-<http://openworm.org/entities/Neuron/I5> <http://openworm.org/entities/Neuron/neurotransmitter> "Glutamate" .
-<http://openworm.org/entities/Neuron/I5> <http://openworm.org/entities/Neuron/neurotransmitter> "Serotonin" .
-<http://openworm.org/entities/Neuron/I5> <http://openworm.org/entities/Neuron/type> "interneuron" .
-<http://openworm.org/entities/Neuron/I5> <http://openworm.org/entities/Neuron/type> "sensory" .
-<http://openworm.org/entities/Neuron/I5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://schema.openworm.org/2020/07/Cell/name> "I5" .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Glutamate" .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Serotonin" .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://schema.openworm.org/2020/07/Neuron/type> "sensory" .
+<http://schema.openworm.org/2020/07/Neuron/I5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 

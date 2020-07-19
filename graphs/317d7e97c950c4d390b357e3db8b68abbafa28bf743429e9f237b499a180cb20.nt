@@ -1,7 +1,7 @@
-<http://openworm.org/entities/Neuron/ASEL> <http://openworm.org/entities/Cell/name> "ASEL" .
-<http://openworm.org/entities/Neuron/ASEL> <http://openworm.org/entities/Neuron/receptor> "DOP-3" .
-<http://openworm.org/entities/Neuron/ASEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
-<http://openworm.org/entities/Neuron/ASER> <http://openworm.org/entities/Cell/name> "ASER" .
-<http://openworm.org/entities/Neuron/ASER> <http://openworm.org/entities/Neuron/receptor> "DOP-3" .
-<http://openworm.org/entities/Neuron/ASER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/ASEL> <http://schema.openworm.org/2020/07/Cell/name> "ASEL" .
+<http://schema.openworm.org/2020/07/Neuron/ASEL> <http://schema.openworm.org/2020/07/Neuron/receptor> "DOP-3" .
+<http://schema.openworm.org/2020/07/Neuron/ASEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/ASER> <http://schema.openworm.org/2020/07/Cell/name> "ASER" .
+<http://schema.openworm.org/2020/07/Neuron/ASER> <http://schema.openworm.org/2020/07/Neuron/receptor> "DOP-3" .
+<http://schema.openworm.org/2020/07/Neuron/ASER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 

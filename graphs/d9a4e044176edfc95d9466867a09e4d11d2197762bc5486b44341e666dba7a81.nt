@@ -1,8 +1,8 @@
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Cell/name> "RIS" .
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Neuron/neurotransmitter> "GABA" .
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Neuron/receptor> "DOP-1" .
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Neuron/receptor> "GLR-1" .
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Neuron/receptor> "SER-4" .
-<http://openworm.org/entities/Neuron/RIS> <http://openworm.org/entities/Neuron/type> "interneuron" .
-<http://openworm.org/entities/Neuron/RIS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/entities/Neuron> .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Cell/name> "RIS" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "GABA" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Neuron/receptor> "DOP-1" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Neuron/receptor> "GLR-1" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Neuron/receptor> "SER-4" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
+<http://schema.openworm.org/2020/07/Neuron/RIS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
 
