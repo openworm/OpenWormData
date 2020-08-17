@@ -13,5 +13,5 @@
 <http://schema.openworm.org/2020/07/Evidence/emmons2015> <http://schema.openworm.org/2020/07/Evidence/reference> <http://schema.openworm.org/2020/07/Document/emmons2015> .
 <http://schema.openworm.org/2020/07/Evidence/emmons2015> <http://schema.openworm.org/2020/07/Evidence/supports> <http://schema.openworm.org/2020/07/translators/NeuronConnectomeCSVTranslator/emmons2015-context> .
 <http://schema.openworm.org/2020/07/Evidence/emmons2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
-<http://schema.openworm.org/2020/07/translators/NeuronConnectomeCSVTranslator/emmons2015-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context> .
+<http://schema.openworm.org/2020/07/translators/NeuronConnectomeCSVTranslator/emmons2015-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07#Context> .
 

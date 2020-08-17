@@ -6,5 +6,5 @@
 <http://schema.openworm.org/2020/07/Evidence/shterionov2011> <http://schema.openworm.org/2020/07/Evidence/reference> <http://schema.openworm.org/2020/07/Document/aca617d62c5bb5cb3f6bf96092c179512> .
 <http://schema.openworm.org/2020/07/Evidence/shterionov2011> <http://schema.openworm.org/2020/07/Evidence/supports> <http://schema.openworm.org/2020/07/translators/NeuronConnectomeSynapseClassTranslator#shterionov2011-context> .
 <http://schema.openworm.org/2020/07/Evidence/shterionov2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
-<http://schema.openworm.org/2020/07/translators/NeuronConnectomeSynapseClassTranslator#shterionov2011-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context> .
+<http://schema.openworm.org/2020/07/translators/NeuronConnectomeSynapseClassTranslator#shterionov2011-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07#Context> .
 
