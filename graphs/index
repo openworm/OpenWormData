@@ -84,6 +84,7 @@
 697c60356aab1991734eb822aad240937251b975963e2a1f2d60e0c26fe0df8e.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a448b586005ae714f164a98c9e53827d0/context_for?document=http://schema.openworm.org/2020/07/Website/wormbase
 6a6582f6a6f5697c247d5b489d3524df2a66ca8b7c97239b4495380527b30fdd.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a97b1cef5e11926f12b0b1b42069d2a04-data
 6ad1ac41809731d12d769e34f84a0fd4ecccb34a56b0a60d19150dd287ce7752.nt http://openworm.org/schema/sci
+6db849917791422fc6c8ddd1ec1243d607f8091c8c4740e2752e0e392eb166d9.nt http://schema.openworm.org/2020/07/sci/bio
 6e7cd1c35eacf041582192728a706f1d6a11c5e1e43183b4ca92dfb2195ad761.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a4afa13dd764f680e33ac7d8e725c7e1b
 70380786ac68dcb7d9ceaa792b34edbfaf80216f6aafc7e90f0058ae90afd63f.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a01764ad7358efaab216c77087a2c04de
 70ecc3fb50116290711d3432eeec4adfe6d5afd58180d0101cce0094829af396.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a1b3a04b33be84703687435187a9c551a
@@ -101,6 +102,7 @@
 7f612d96c8c770571660dbd264c6287fc9a8686a10e8d9d4c65d03c7814bb531.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a7375b600870f4797de0f494c656de444
 803b89b2735b669a37f15aaf7be27ccd84c1b0612d84b729ca8d59ffedd065c9.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/abfd6c17aa708ed43d9377c6e23722062
 8041a74261825a0a0cb2244ceace02c18ee22bb9290e00509c5c17e0fef88062.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/adb1c5a5892f8c0e86c85b33cd8c5a8a0
+8254dae9e5e8bdbed36ce8236ac611d2a1d2c11f27a29a5227843cc29f553aeb.nt http://schema.openworm.org/2020/07/sci
 826ba298186565bc78cfabbaf229b27386a59ab9b82c6fedf85d009b4b659533.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a3320c5cd886e73813aab4b2cab3e4b85/context_for?document=http://schema.openworm.org/2020/07/Document/ae0fb083e538ba56c64b3f98a6e64a416
 82a41bfa2ed3d49f438d166a338220f6b317a156dc2365bccf8ab78bdfd72089.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a97b1cef5e11926f12b0b1b42069d2a04-evidence
 82d55f72cd3982638521c33e63f4cb5192ef3a5d22452251643d147c34c1425d.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a3320c5cd886e73813aab4b2cab3e4b85/context_for?document=http://schema.openworm.org/2020/07/Document/ae894cf9b13182a6a0ff4c1340fa3287a
@@ -176,6 +178,7 @@ e1a927602cfa1abcc01a894411326c1293df4a70197abb2a9a339b48e651f499.nt http://schem
 e2813836d6d46c91ea8412a3ebed82b2d22bde4675557c3737cea7f15f30f70d.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a2a6e664a6213ba4ce6e83b3badae6ecb
 e31df4d873c8984b958a789ec37b3313136fcf9bb8f476c47d1c1bedabe6b475.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a3320c5cd886e73813aab4b2cab3e4b85/context_for?document=http://schema.openworm.org/2020/07/Document/a26459df599f6e41fb72adb58aae4121c
 e3e3ce91c915cdf45b91b422ffdc021b1cf2f0c4892abad708b5c6a801c4e1e6.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/WormAtlas
+e4d4f1a41ece52f300b01e8f184b7fac546c736c96953c37f677ecec8a7ce5ee.nt N7d07addeb7154279b2735aa72182d256
 e4faa22ebc226e7cd77cba392f436f01185506e96ad4ee210cb612ed2d5539e6.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/a5f54041c1dbdfaabce726a2b0c3c5000
 e509bcdb66635dc8c25672b2a14d2389e47bac9bf8fcf52927283006b2e007e0.nt http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons/context_for?document=http://schema.openworm.org/2020/07/Document/aad4079a4437dcedf1f6a3fe91944ba08
 e597b02a6dd0bebbbcdb68bda9f7a1d583bb8db787306c123bf54c8a9a7d13e8.nt http://openworm.org/schema/sci/bio

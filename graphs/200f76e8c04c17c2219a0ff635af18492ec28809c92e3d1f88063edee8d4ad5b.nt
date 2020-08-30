@@ -2,6 +2,7 @@
 <http://openworm.org/data> <http://schema.openworm.org/2020/07/Context/imports> <http://openworm.org/data-data> .
 <http://openworm.org/data> <http://schema.openworm.org/2020/07/Context/imports> <http://openworm.org/data-evidence> .
 <http://openworm.org/data> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07> .
+<http://openworm.org/data> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07/sci/bio> .
 <http://openworm.org/data-data> <http://schema.openworm.org/2020/07/Context/imports> <http://openworm.org/schema/bio> .
 <http://openworm.org/data-data> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Muscles-data> .
 <http://openworm.org/data-data> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#Neurons-data> .
@@ -259,5 +260,7 @@
 <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#aea25fe71599f254beaa1b51503488af9-data> <http://schema.openworm.org/2020/07/Context/imports> <http://openworm.org/schema/bio> .
 <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#aea25fe71599f254beaa1b51503488af9-data> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07/translators/NeuronConnectomeSynapseClassTranslator#shterionov2011-context> .
 <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#aea25fe71599f254beaa1b51503488af9-evidence> <http://schema.openworm.org/2020/07/Context/imports> <http://openworm.org/schema/bio> .
+<http://schema.openworm.org/2020/07/sci> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07> .
+<http://schema.openworm.org/2020/07/sci/bio> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07/sci> .
 <http://www.w3.org/2000/01/rdf-schema> <http://schema.openworm.org/2020/07/Context/imports> <http://www.w3.org/1999/02/22-rdf-syntax-ns> .
 
