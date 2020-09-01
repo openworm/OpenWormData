@@ -1,0 +1,11 @@
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "RICL" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Octopamine" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-1" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "RICR" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Octopamine" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-1" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

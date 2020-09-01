@@ -1,0 +1,13 @@
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AVHL" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GGR-1" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-4" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AVHR" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GGR-1" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-4" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

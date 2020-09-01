@@ -1,0 +1,8 @@
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "M4" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "FLP-21" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Acetylcholine" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-8" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER7b" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "motor" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

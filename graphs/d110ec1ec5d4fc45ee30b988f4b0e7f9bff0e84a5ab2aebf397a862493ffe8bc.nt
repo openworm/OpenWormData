@@ -1,0 +1,15 @@
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "BDUL" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-1" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-15" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-8" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "BDUR" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-1" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-15" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-8" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

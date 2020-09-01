@@ -1,0 +1,7 @@
+<http://data.openworm.org/sci/bio/Neuron#RMHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "RMHL" .
+<http://data.openworm.org/sci/bio/Neuron#RMHL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "motor" .
+<http://data.openworm.org/sci/bio/Neuron#RMHL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#RMHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "RMHR" .
+<http://data.openworm.org/sci/bio/Neuron#RMHR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "motor" .
+<http://data.openworm.org/sci/bio/Neuron#RMHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

@@ -1,0 +1,8 @@
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "RIS" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "GABA" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "DOP-1" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GLR-1" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-4" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

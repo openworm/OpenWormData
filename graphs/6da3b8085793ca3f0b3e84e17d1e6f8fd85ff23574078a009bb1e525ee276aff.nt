@@ -1,0 +1,17 @@
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AWBL" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-3" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-9" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "AEX-2" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "DAF-11" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "STR-1" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "sensory" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AWBR" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-3" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "NLP-9" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "AEX-2" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "DAF-11" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "STR-1" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "sensory" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

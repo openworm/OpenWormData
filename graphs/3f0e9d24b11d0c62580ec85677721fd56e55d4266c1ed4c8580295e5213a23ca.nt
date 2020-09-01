@@ -1,0 +1,11 @@
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "SDQL" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Acetylcholine" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "sensory" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "SDQR" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Acetylcholine" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "sensory" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

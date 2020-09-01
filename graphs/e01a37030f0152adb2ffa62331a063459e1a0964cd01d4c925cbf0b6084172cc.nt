@@ -1,0 +1,13 @@
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AIZL" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "FLP-22" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Glutamate" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AIZR" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neuropeptide> "FLP-22" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Glutamate" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-2" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

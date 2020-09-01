@@ -1,0 +1,13 @@
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AQR" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/neurotransmitter> "Glutamate" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-25" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-32" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-34" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-35" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-36" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "GCY-37" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "NLP-37" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "NPR-1" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/type> "sensory" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+
