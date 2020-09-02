@@ -1,0 +1,8 @@
+<http://data.openworm.org/Evidence#a1aa9c0e4071149e126a983a66a11d56f> <http://schema.openworm.org/2020/07/Evidence/reference> <http://data.openworm.org/Website#wormbase> .
+<http://data.openworm.org/Evidence#a1aa9c0e4071149e126a983a66a11d56f> <http://schema.openworm.org/2020/07/Evidence/supports> <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#wormbase_neurons/context_for?document=http://data.openworm.org/Website#wormbase> .
+<http://data.openworm.org/Evidence#a1aa9c0e4071149e126a983a66a11d56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
+<http://data.openworm.org/Website#wormbase> <http://schema.openworm.org/2020/07/Website/title> "WormBase" .
+<http://data.openworm.org/Website#wormbase> <http://schema.openworm.org/2020/07/Website/url> "http://Wormbase.org" .
+<http://data.openworm.org/Website#wormbase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Website> .
+<http://data.openworm.org/Website#wormbase> <http://www.w3.org/2000/01/rdf-schema#comment> "WormBase" .
+
