@@ -1,0 +1,4 @@
+<http://data.openworm.org/sci/bio/Neuron#PVT> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "PVT" .
+<http://data.openworm.org/sci/bio/Neuron#PVT> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "TYRA-3" .
+<http://data.openworm.org/sci/bio/Neuron#PVT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+

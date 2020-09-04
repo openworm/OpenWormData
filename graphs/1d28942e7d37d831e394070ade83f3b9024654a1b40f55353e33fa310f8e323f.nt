@@ -1,0 +1,7 @@
+<http://data.openworm.org/sci/bio/Neuron#AVJL> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AVJL" .
+<http://data.openworm.org/sci/bio/Neuron#AVJL> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-5" .
+<http://data.openworm.org/sci/bio/Neuron#AVJL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+<http://data.openworm.org/sci/bio/Neuron#AVJR> <http://schema.openworm.org/2020/07/sci/bio/Cell/name> "AVJR" .
+<http://data.openworm.org/sci/bio/Neuron#AVJR> <http://schema.openworm.org/2020/07/sci/bio/Neuron/receptor> "SER-5" .
+<http://data.openworm.org/sci/bio/Neuron#AVJR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/bio/Neuron> .
+
