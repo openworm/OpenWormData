@@ -1,8 +1,0 @@
-<http://schema.openworm.org/2020/07/Evidence/a2c5f9593f48b5d83fbcce7a97c515935> <http://schema.openworm.org/2020/07/Evidence/reference> <http://schema.openworm.org/2020/07/Website/wormbase> .
-<http://schema.openworm.org/2020/07/Evidence/a2c5f9593f48b5d83fbcce7a97c515935> <http://schema.openworm.org/2020/07/Evidence/supports> <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a15805937eb044e4f480a97a7608b39db/context_for?document=http://schema.openworm.org/2020/07/Website/wormbase> .
-<http://schema.openworm.org/2020/07/Evidence/a2c5f9593f48b5d83fbcce7a97c515935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
-<http://schema.openworm.org/2020/07/Website/wormbase> <http://schema.openworm.org/2020/07/Website/title> "WormBase" .
-<http://schema.openworm.org/2020/07/Website/wormbase> <http://schema.openworm.org/2020/07/Website/url> "http://Wormbase.org" .
-<http://schema.openworm.org/2020/07/Website/wormbase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Website> .
-<http://schema.openworm.org/2020/07/Website/wormbase> <http://www.w3.org/2000/01/rdf-schema#comment> "WormBase" .
-

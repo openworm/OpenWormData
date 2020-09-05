@@ -1,5 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/PVR> <http://schema.openworm.org/2020/07/Cell/name> "PVR" .
-<http://schema.openworm.org/2020/07/Neuron/PVR> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Glutamate" .
-<http://schema.openworm.org/2020/07/Neuron/PVR> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
-<http://schema.openworm.org/2020/07/Neuron/PVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-

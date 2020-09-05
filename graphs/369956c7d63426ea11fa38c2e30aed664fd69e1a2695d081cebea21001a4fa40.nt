@@ -1,9 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/URBL> <http://schema.openworm.org/2020/07/Cell/name> "URBL" .
-<http://schema.openworm.org/2020/07/Neuron/URBL> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Acetylcholine" .
-<http://schema.openworm.org/2020/07/Neuron/URBL> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
-<http://schema.openworm.org/2020/07/Neuron/URBL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-<http://schema.openworm.org/2020/07/Neuron/URBR> <http://schema.openworm.org/2020/07/Cell/name> "URBR" .
-<http://schema.openworm.org/2020/07/Neuron/URBR> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Acetylcholine" .
-<http://schema.openworm.org/2020/07/Neuron/URBR> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
-<http://schema.openworm.org/2020/07/Neuron/URBR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-

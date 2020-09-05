@@ -1,9 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Cell/name> "PQR" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Glutamate" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/receptor> "GCY-32" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/receptor> "GCY-35" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/receptor> "NPR-1" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/receptor> "PDFR-1" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://schema.openworm.org/2020/07/Neuron/type> "sensory" .
-<http://schema.openworm.org/2020/07/Neuron/PQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-

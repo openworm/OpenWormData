@@ -1,6 +1,0 @@
-<http://schema.openworm.org/2020/07/Evidence/a7768a922d1d87221475539104edd3161> <http://schema.openworm.org/2020/07/Evidence/reference> <http://www.wormatlas.org/celllist.htm> .
-<http://schema.openworm.org/2020/07/Evidence/a7768a922d1d87221475539104edd3161> <http://schema.openworm.org/2020/07/Evidence/supports> <http://schema.openworm.org/2020/07/data_sources/DataWithEvidenceDataSource#a5525487ae6e0056c02c006f3b98aebfe/context_for?document=http://www.wormatlas.org/celllist.htm> .
-<http://schema.openworm.org/2020/07/Evidence/a7768a922d1d87221475539104edd3161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
-<http://www.wormatlas.org/celllist.htm> <http://schema.openworm.org/2020/07/Website/url> "http://www.wormatlas.org/celllist.htm" .
-<http://www.wormatlas.org/celllist.htm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Website> .
-

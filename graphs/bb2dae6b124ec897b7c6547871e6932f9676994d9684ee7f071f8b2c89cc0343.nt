@@ -1,6 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/PDB> <http://schema.openworm.org/2020/07/Cell/name> "PDB" .
-<http://schema.openworm.org/2020/07/Neuron/PDB> <http://schema.openworm.org/2020/07/Neuron/receptor> "UNC-8" .
-<http://schema.openworm.org/2020/07/Neuron/PDB> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
-<http://schema.openworm.org/2020/07/Neuron/PDB> <http://schema.openworm.org/2020/07/Neuron/type> "motor" .
-<http://schema.openworm.org/2020/07/Neuron/PDB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-

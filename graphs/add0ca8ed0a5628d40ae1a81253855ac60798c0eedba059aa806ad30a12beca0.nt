@@ -1,8 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Cell/name> "M1" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Neuron/neuropeptide> "NLP-3" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Neuron/neurotransmitter> "Acetylcholine" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Neuron/receptor> "AVR-14" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Neuron/receptor> "GLR-2" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://schema.openworm.org/2020/07/Neuron/type> "motor" .
-<http://schema.openworm.org/2020/07/Neuron/M1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-

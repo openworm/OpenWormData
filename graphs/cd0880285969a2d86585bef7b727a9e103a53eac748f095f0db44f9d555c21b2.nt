@@ -1,8 +1,0 @@
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Cell/name> "ALA" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Neuron/neuropeptide> "FLP-7" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Neuron/receptor> "ACR-13" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Neuron/receptor> "ACR-4" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Neuron/receptor> "SRA-10" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://schema.openworm.org/2020/07/Neuron/type> "interneuron" .
-<http://schema.openworm.org/2020/07/Neuron/ALA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Neuron> .
-
