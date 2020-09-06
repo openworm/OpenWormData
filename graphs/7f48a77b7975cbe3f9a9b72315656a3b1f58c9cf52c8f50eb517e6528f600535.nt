@@ -99,6 +99,7 @@
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#connectome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/sci/data_sources/DataWithEvidenceDataSource> .
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#connectome-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context#variable> .
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#connectome-evidence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://openworm.org/schema/Context#variable> .
+<http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#connectome/context_for?document=http://data.openworm.org/Document#emmons2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07#Context> .
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#ion_channels> <http://schema.openworm.org/2020/07/data_sources/DataSource/description> "Contains Channels and ExpressionPatterns" .
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#ion_channels> <http://schema.openworm.org/2020/07/data_sources/DataSource/source> <http://data.openworm.org/sci/data_sources/WormbaseIonChannelCSVDataSource#ion_channels> .
 <http://data.openworm.org/sci/data_sources/DataWithEvidenceDataSource#ion_channels> <http://schema.openworm.org/2020/07/data_sources/DataSource/translation> <http://data.openworm.org/GenericTranslation#a10c058655eadfccac3f5bcccb3f6b7dd> .
