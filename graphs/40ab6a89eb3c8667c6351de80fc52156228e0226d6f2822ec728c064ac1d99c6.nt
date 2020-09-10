@@ -1,8 +1,0 @@
-<http://schema.openworm.org/2020/07/Document#aca67dafa78cf067c8f8292a6339a3d2a> <http://schema.openworm.org/2020/07/Document/title> "A Hub-and-Spoke Circuit Drives Pheromone Attraction and Social Behavior in C. elegans" .
-<http://schema.openworm.org/2020/07/Document#aca67dafa78cf067c8f8292a6339a3d2a> <http://schema.openworm.org/2020/07/Document/uri> "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760495/" .
-<http://schema.openworm.org/2020/07/Document#aca67dafa78cf067c8f8292a6339a3d2a> <http://schema.openworm.org/2020/07/Document/year> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://schema.openworm.org/2020/07/Document#aca67dafa78cf067c8f8292a6339a3d2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Document> .
-<http://schema.openworm.org/2020/07/Evidence#a80e5b9cb8eeed30373050e0954cf1c0a> <http://schema.openworm.org/2020/07/Evidence/reference> <http://schema.openworm.org/2020/07/Document#aca67dafa78cf067c8f8292a6339a3d2a> .
-<http://schema.openworm.org/2020/07/Evidence#a80e5b9cb8eeed30373050e0954cf1c0a> <http://schema.openworm.org/2020/07/Evidence/supports> <http://example.org/data> .
-<http://schema.openworm.org/2020/07/Evidence#a80e5b9cb8eeed30373050e0954cf1c0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Evidence> .
-
