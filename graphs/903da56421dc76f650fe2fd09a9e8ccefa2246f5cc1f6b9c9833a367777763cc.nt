@@ -1,0 +1,909 @@
+<http://data.openworm.org/sci/bio/Neuron#ADAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneurons" .
+<http://data.openworm.org/sci/bio/Neuron#ADAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#ADAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneurons" .
+<http://data.openworm.org/sci/bio/Neuron#ADAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#ADEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Anterior deirid, sensory neuron, dopaminergic" .
+<http://data.openworm.org/sci/bio/Neuron#ADEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapaaaapa" .
+<http://data.openworm.org/sci/bio/Neuron#ADER> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Anterior deirid, sensory neuron, dopaminergic" .
+<http://data.openworm.org/sci/bio/Neuron#ADER> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapaaaapa" .
+<http://data.openworm.org/sci/bio/Neuron#ADFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neuron, prob. chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#ADFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppppaa" .
+<http://data.openworm.org/sci/bio/Neuron#ADFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neuron, prob. chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#ADFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#ADLL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neuron, prob. chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#ADLL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppppaad" .
+<http://data.openworm.org/sci/bio/Neuron#ADLR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neuron, prob. chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#ADLR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaapaad" .
+<http://data.openworm.org/sci/bio/Neuron#AFDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid finger cell, neuron associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AFDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppapav" .
+<http://data.openworm.org/sci/bio/Neuron#AFDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid finger cell, neuron associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AFDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaaapav" .
+<http://data.openworm.org/sci/bio/Neuron#AIAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppaappa" .
+<http://data.openworm.org/sci/bio/Neuron#AIAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppaappa" .
+<http://data.openworm.org/sci/bio/Neuron#AIBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaapappa" .
+<http://data.openworm.org/sci/bio/Neuron#AIBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praapappa" .
+<http://data.openworm.org/sci/bio/Neuron#AIML> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIML> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaapppa" .
+<http://data.openworm.org/sci/bio/Neuron#AIMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaapppa" .
+<http://data.openworm.org/sci/bio/Neuron#AINL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AINL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaaaalal" .
+<http://data.openworm.org/sci/bio/Neuron#AINR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AINR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaapaaar" .
+<http://data.openworm.org/sci/bio/Neuron#AIYL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIYL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapaaap" .
+<http://data.openworm.org/sci/bio/Neuron#AIYR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIYR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapaaap" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIZL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapaaapav" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AIZR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapaaapav" .
+<http://data.openworm.org/sci/bio/Neuron#ALA> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, sends processes laterally and along dorsal cord" .
+<http://data.openworm.org/sci/bio/Neuron#ALA> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#ALML> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Anterior lateral microtubule cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#ALML> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arppaappa" .
+<http://data.openworm.org/sci/bio/Neuron#ALMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Anterior lateral microtubule cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#ALMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arpppappa" .
+<http://data.openworm.org/sci/bio/Neuron#ALNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron associated with ALM" .
+<http://data.openworm.org/sci/bio/Neuron#ALNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapappppap" .
+<http://data.openworm.org/sci/bio/Neuron#ALNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron associated with ALM" .
+<http://data.openworm.org/sci/bio/Neuron#ALNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapappppap" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, basal body. not part of a sensillum, projects into ring" .
+<http://data.openworm.org/sci/bio/Neuron#AQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QR.ap" .
+<http://data.openworm.org/sci/bio/Neuron#AS1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P1.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS10> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS10> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P10.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS11> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS11> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P11.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P2.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P3.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P4.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P5.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P6.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P7.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS8> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS8> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P8.apa" .
+<http://data.openworm.org/sci/bio/Neuron#AS9> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart" .
+<http://data.openworm.org/sci/bio/Neuron#AS9> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P9.apa" .
+<http://data.openworm.org/sci/bio/Neuron#ASEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppppppaa" .
+<http://data.openworm.org/sci/bio/Neuron#ASER> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASER> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaapppaa" .
+<http://data.openworm.org/sci/bio/Neuron#ASGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaapapap" .
+<http://data.openworm.org/sci/bio/Neuron#ASGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praapapap" .
+<http://data.openworm.org/sci/bio/Neuron#ASHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#ASHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#ASIL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASIL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaapapppa" .
+<http://data.openworm.org/sci/bio/Neuron#ASIR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASIR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praapapppa" .
+<http://data.openworm.org/sci/bio/Neuron#ASJL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASJL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppppppa" .
+<http://data.openworm.org/sci/bio/Neuron#ASJR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASJR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaappppa" .
+<http://data.openworm.org/sci/bio/Neuron#ASKL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASKL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppapppa" .
+<http://data.openworm.org/sci/bio/Neuron#ASKR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil" .
+<http://data.openworm.org/sci/bio/Neuron#ASKR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaaapppa" .
+<http://data.openworm.org/sci/bio/Neuron#AUAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, process runs with amphid processes but lacks ciliated ending" .
+<http://data.openworm.org/sci/bio/Neuron#AUAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppppppp" .
+<http://data.openworm.org/sci/bio/Neuron#AUAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, process runs with amphid processes but lacks ciliated ending" .
+<http://data.openworm.org/sci/bio/Neuron#AUAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaappppp" .
+<http://data.openworm.org/sci/bio/Neuron#AVAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VA, DA, and AS motor neurons; formerly called alpha" .
+<http://data.openworm.org/sci/bio/Neuron#AVAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppaaapa" .
+<http://data.openworm.org/sci/bio/Neuron#AVAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VA, DA, and AS motor neurons; formerly called alpha" .
+<http://data.openworm.org/sci/bio/Neuron#AVAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaappapa" .
+<http://data.openworm.org/sci/bio/Neuron#AVBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta" .
+<http://data.openworm.org/sci/bio/Neuron#AVBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaapaap" .
+<http://data.openworm.org/sci/bio/Neuron#AVBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta" .
+<http://data.openworm.org/sci/bio/Neuron#AVBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaapaap" .
+<http://data.openworm.org/sci/bio/Neuron#AVDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta" .
+<http://data.openworm.org/sci/bio/Neuron#AVDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaaapalr" .
+<http://data.openworm.org/sci/bio/Neuron#AVDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta" .
+<http://data.openworm.org/sci/bio/Neuron#AVDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaaapprl" .
+<http://data.openworm.org/sci/bio/Neuron#AVEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord" .
+<http://data.openworm.org/sci/bio/Neuron#AVEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVER> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord" .
+<http://data.openworm.org/sci/bio/Neuron#AVER> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, processes in ventral cord and ring, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#AVFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "W.aaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, processes in ventral cord and ring, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#AVFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P1.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVG> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#AVG> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapppap" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring" .
+<http://data.openworm.org/sci/bio/Neuron#AVHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring" .
+<http://data.openworm.org/sci/bio/Neuron#AVHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alappapaa" .
+<http://data.openworm.org/sci/bio/Neuron#AVJL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, synapses like AVHL/R" .
+<http://data.openworm.org/sci/bio/Neuron#AVJL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapapppa" .
+<http://data.openworm.org/sci/bio/Neuron#AVJR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, synapses like AVHL/R" .
+<http://data.openworm.org/sci/bio/Neuron#AVJR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapppppa" .
+<http://data.openworm.org/sci/bio/Neuron#AVKL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring and ventral cord interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AVKL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapapap" .
+<http://data.openworm.org/sci/bio/Neuron#AVKR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring and ventral cord interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#AVKR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapapap" .
+<http://data.openworm.org/sci/bio/Neuron#AVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring and ventral cord interneuron, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#AVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpappaap" .
+<http://data.openworm.org/sci/bio/Neuron#AVM> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Anterior ventral microtubule cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#AVM> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QR.paa" .
+<http://data.openworm.org/sci/bio/Neuron#AWAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaapapaa" .
+<http://data.openworm.org/sci/bio/Neuron#AWAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praapapaa" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppppap" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaappap" .
+<http://data.openworm.org/sci/bio/Neuron#AWCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaaaap" .
+<http://data.openworm.org/sci/bio/Neuron#AWCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath" .
+<http://data.openworm.org/sci/bio/Neuron#AWCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaaaap" .
+<http://data.openworm.org/sci/bio/Neuron#BAGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, ciliated ending in head, no supporting cells, associated with ILso" .
+<http://data.openworm.org/sci/bio/Neuron#BAGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppappap" .
+<http://data.openworm.org/sci/bio/Neuron#BAGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, ciliated ending in head, no supporting cells, associated with ILso" .
+<http://data.openworm.org/sci/bio/Neuron#BAGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappppap" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles" .
+<http://data.openworm.org/sci/bio/Neuron#BDUL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arppaappp" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles" .
+<http://data.openworm.org/sci/bio/Neuron#BDUR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arpppappp" .
+<http://data.openworm.org/sci/bio/Neuron#CANL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Process runs along excretory canal, no synapses, essential for survival" .
+<http://data.openworm.org/sci/bio/Neuron#CANL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapaaapa" .
+<http://data.openworm.org/sci/bio/Neuron#CANR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Process runs along excretory canal, no synapses, essential for survival" .
+<http://data.openworm.org/sci/bio/Neuron#CANR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alappappa" .
+<http://data.openworm.org/sci/bio/Neuron#CEPDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Cephalic neurons, contain dopamine" .
+<http://data.openworm.org/sci/bio/Neuron#CEPDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaaaaappa" .
+<http://data.openworm.org/sci/bio/Neuron#CEPDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Cephalic neurons, contain dopamine" .
+<http://data.openworm.org/sci/bio/Neuron#CEPDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arpapaappa" .
+<http://data.openworm.org/sci/bio/Neuron#CEPVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Cephalic neurons, contain dopamine" .
+<http://data.openworm.org/sci/bio/Neuron#CEPVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaappppa" .
+<http://data.openworm.org/sci/bio/Neuron#CEPVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Cephalic neurons, contain dopamine" .
+<http://data.openworm.org/sci/bio/Neuron#CEPVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaappppa" .
+<http://data.openworm.org/sci/bio/Neuron#DA1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapaap" .
+<http://data.openworm.org/sci/bio/Neuron#DA2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapapa" .
+<http://data.openworm.org/sci/bio/Neuron#DA3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapapa" .
+<http://data.openworm.org/sci/bio/Neuron#DA4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapapp" .
+<http://data.openworm.org/sci/bio/Neuron#DA5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapapp" .
+<http://data.openworm.org/sci/bio/Neuron#DA6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpppaaap" .
+<http://data.openworm.org/sci/bio/Neuron#DA7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpppaaap" .
+<http://data.openworm.org/sci/bio/Neuron#DA8> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA8> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapappp" .
+<http://data.openworm.org/sci/bio/Neuron#DA9> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DA9> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpppaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#DB1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#DB2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappappa" .
+<http://data.openworm.org/sci/bio/Neuron#DB3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#DB4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpappapp" .
+<http://data.openworm.org/sci/bio/Neuron#DB5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapappp" .
+<http://data.openworm.org/sci/bio/Neuron#DB6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppaappp" .
+<http://data.openworm.org/sci/bio/Neuron#DB7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, innervate dorsal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DB7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppaappp" .
+<http://data.openworm.org/sci/bio/Neuron#DD1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppappap" .
+<http://data.openworm.org/sci/bio/Neuron#DD2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppappap" .
+<http://data.openworm.org/sci/bio/Neuron#DD3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapppa" .
+<http://data.openworm.org/sci/bio/Neuron#DD4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapppa" .
+<http://data.openworm.org/sci/bio/Neuron#DD5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapppp" .
+<http://data.openworm.org/sci/bio/Neuron#DD6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development" .
+<http://data.openworm.org/sci/bio/Neuron#DD6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapppp" .
+<http://data.openworm.org/sci/bio/Neuron#DVA> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneurons, cell bodies in dorsorectal ganglion" .
+<http://data.openworm.org/sci/bio/Neuron#DVA> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppppapp" .
+<http://data.openworm.org/sci/bio/Neuron#DVB> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, cell body in dorsorectal ganglion, innervates rectal muscles" .
+<http://data.openworm.org/sci/bio/Neuron#DVB> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "K.p" .
+<http://data.openworm.org/sci/bio/Neuron#DVC> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneurons, cell bodies in dorsorectal ganglion" .
+<http://data.openworm.org/sci/bio/Neuron#DVC> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "C.aapaa" .
+<http://data.openworm.org/sci/bio/Neuron#FLPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, ciliated ending in head, no supporting cells, associated with ILso" .
+<http://data.openworm.org/sci/bio/Neuron#FLPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapaaapad" .
+<http://data.openworm.org/sci/bio/Neuron#FLPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, ciliated ending in head, no supporting cells, associated with ILso" .
+<http://data.openworm.org/sci/bio/Neuron#FLPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapaaapad" .
+<http://data.openworm.org/sci/bio/Neuron#HSNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Herm. specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic" .
+<http://data.openworm.org/sci/bio/Neuron#HSNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapppappa" .
+<http://data.openworm.org/sci/bio/Neuron#HSNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Herm. specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic" .
+<http://data.openworm.org/sci/bio/Neuron#HSNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapppappa" .
+<http://data.openworm.org/sci/bio/Neuron#I1L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneurons: ant sensory, input from RIP" .
+<http://data.openworm.org/sci/bio/Neuron#I1L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpapppaa" .
+<http://data.openworm.org/sci/bio/Neuron#I1R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneurons: ant sensory, input from RIP" .
+<http://data.openworm.org/sci/bio/Neuron#I1R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapappaa" .
+<http://data.openworm.org/sci/bio/Neuron#I2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneurons, ant sensory." .
+<http://data.openworm.org/sci/bio/Neuron#I2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpappaapa" .
+<http://data.openworm.org/sci/bio/Neuron#I2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneurons, ant sensory." .
+<http://data.openworm.org/sci/bio/Neuron#I2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapapaapa" .
+<http://data.openworm.org/sci/bio/Neuron#I3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneuron, ant sensory." .
+<http://data.openworm.org/sci/bio/Neuron#I3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.aaaaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#I4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneuron." .
+<http://data.openworm.org/sci/bio/Neuron#I4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.aaaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#I5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneuron, post sensory." .
+<http://data.openworm.org/sci/bio/Neuron#I5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapapapp" .
+<http://data.openworm.org/sci/bio/Neuron#I6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal interneuron, post sensory." .
+<http://data.openworm.org/sci/bio/Neuron#I6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.paaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1DL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1DL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapappaaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1DR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1DR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alappppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaappppaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1VL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1VL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppapppaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL1VR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL1VR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapppppaa" .
+<http://data.openworm.org/sci/bio/Neuron#IL2DL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2DL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapappap" .
+<http://data.openworm.org/sci/bio/Neuron#IL2DR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2DR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alappppap" .
+<http://data.openworm.org/sci/bio/Neuron#IL2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapaappp" .
+<http://data.openworm.org/sci/bio/Neuron#IL2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaappppp" .
+<http://data.openworm.org/sci/bio/Neuron#IL2VL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2VL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppapppp" .
+<http://data.openworm.org/sci/bio/Neuron#IL2VR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Inner labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#IL2VR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapppppp" .
+<http://data.openworm.org/sci/bio/Neuron#LUAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, short process in post ventral cord" .
+<http://data.openworm.org/sci/bio/Neuron#LUAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpppaapap" .
+<http://data.openworm.org/sci/bio/Neuron#LUAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, short process in post ventral cord" .
+<http://data.openworm.org/sci/bio/Neuron#LUAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpppaapap" .
+<http://data.openworm.org/sci/bio/Neuron#M1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.paapaaa" .
+<http://data.openworm.org/sci/bio/Neuron#M2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M2L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araapappa" .
+<http://data.openworm.org/sci/bio/Neuron#M2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M2R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araappppa" .
+<http://data.openworm.org/sci/bio/Neuron#M3L> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal sensory-motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M3L> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araapappp" .
+<http://data.openworm.org/sci/bio/Neuron#M3R> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal sensory-motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M3R> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araappppp" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.paaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#M5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motorneurons" .
+<http://data.openworm.org/sci/bio/Neuron#M5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "MS.paaapap" .
+<http://data.openworm.org/sci/bio/Neuron#MCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal neurons that synapse onto marginal cells" .
+<http://data.openworm.org/sci/bio/Neuron#MCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpaaappp" .
+<http://data.openworm.org/sci/bio/Neuron#MCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal neurons that synapse onto marginal cells" .
+<http://data.openworm.org/sci/bio/Neuron#MCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapaappp" .
+<http://data.openworm.org/sci/bio/Neuron#MI> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal motor neuron/interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#MI> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araappaaa" .
+<http://data.openworm.org/sci/bio/Neuron#NSML> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal neurosecretory motorneuron, contain serotonin" .
+<http://data.openworm.org/sci/bio/Neuron#NSML> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araapapaav" .
+<http://data.openworm.org/sci/bio/Neuron#NSMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Pharyngeal neurosecretory motorneuron, contain serotonin" .
+<http://data.openworm.org/sci/bio/Neuron#NSMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.araapppaav" .
+<http://data.openworm.org/sci/bio/Neuron#OLLL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Lateral outer labial neurons" .
+<http://data.openworm.org/sci/bio/Neuron#OLLL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppppapaa" .
+<http://data.openworm.org/sci/bio/Neuron#OLLR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Lateral outer labial neurons" .
+<http://data.openworm.org/sci/bio/Neuron#OLLR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaapapaa" .
+<http://data.openworm.org/sci/bio/Neuron#OLQDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Quadrant outer labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#OLQDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapapapaa" .
+<http://data.openworm.org/sci/bio/Neuron#OLQDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Quadrant outer labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#OLQDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapppapaa" .
+<http://data.openworm.org/sci/bio/Neuron#OLQVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Quadrant outer labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#OLQVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#OLQVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Quadrant outer labial neuron" .
+<http://data.openworm.org/sci/bio/Neuron#OLQVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaappaa" .
+<http://data.openworm.org/sci/bio/Neuron#PDA> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Motor neuron, process in dorsal cord, same as Y cell in hermaphrodite, Y.a in male" .
+<http://data.openworm.org/sci/bio/Neuron#PDA> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpppaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#PDB> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Motor neuron, process in dorsal cord, cell body in pre-anal ganglion" .
+<http://data.openworm.org/sci/bio/Neuron#PDB> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P12.apa" .
+<http://data.openworm.org/sci/bio/Neuron#PDEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, dopaminergic of postderid sensillum" .
+<http://data.openworm.org/sci/bio/Neuron#PDEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "V5L.paaa" .
+<http://data.openworm.org/sci/bio/Neuron#PDER> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, dopaminergic of postderid sensillum" .
+<http://data.openworm.org/sci/bio/Neuron#PDER> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "V5R.paaa" .
+<http://data.openworm.org/sci/bio/Neuron#PHAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Phasmid neurons, probably chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#PHAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpppaapp" .
+<http://data.openworm.org/sci/bio/Neuron#PHAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Phasmid neurons, probably chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#PHAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpppaapp" .
+<http://data.openworm.org/sci/bio/Neuron#PHBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Phasmid neurons, probably chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#PHBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapppappp" .
+<http://data.openworm.org/sci/bio/Neuron#PHBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Phasmid neurons, probably chemosensory" .
+<http://data.openworm.org/sci/bio/Neuron#PHBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapppappp" .
+<http://data.openworm.org/sci/bio/Neuron#PHCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, striated rootlet in male, possibly sensory in tail spike" .
+<http://data.openworm.org/sci/bio/Neuron#PHCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TL.pppaa" .
+<http://data.openworm.org/sci/bio/Neuron#PHCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, striated rootlet in male, possibly sensory in tail spike" .
+<http://data.openworm.org/sci/bio/Neuron#PHCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TR.pppaa" .
+<http://data.openworm.org/sci/bio/Neuron#PLML> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Posterior lateral microtubule cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#PLML> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapappppaa" .
+<http://data.openworm.org/sci/bio/Neuron#PLMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Posterior lateral microtubule cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#PLMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapappppaa" .
+<http://data.openworm.org/sci/bio/Neuron#PLNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, associated with PLM" .
+<http://data.openworm.org/sci/bio/Neuron#PLNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TL.pppap" .
+<http://data.openworm.org/sci/bio/Neuron#PLNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, associated with PLM" .
+<http://data.openworm.org/sci/bio/Neuron#PLNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TR.pppap" .
+<http://data.openworm.org/sci/bio/Neuron#PQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, basal body, not part of a sensillum, projects into preanal gangion" .
+<http://data.openworm.org/sci/bio/Neuron#PQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QL.ap" .
+<http://data.openworm.org/sci/bio/Neuron#PVCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta" .
+<http://data.openworm.org/sci/bio/Neuron#PVCL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpppaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta" .
+<http://data.openworm.org/sci/bio/Neuron#PVCR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpppaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, lateral process adjacent to excretory canal" .
+<http://data.openworm.org/sci/bio/Neuron#PVDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "V5L.paapa" .
+<http://data.openworm.org/sci/bio/Neuron#PVDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, lateral process adjacent to excretory canal" .
+<http://data.openworm.org/sci/bio/Neuron#PVDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "V5R.paapa" .
+<http://data.openworm.org/sci/bio/Neuron#PVM> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Posterior ventral microtuble cell, touch receptor" .
+<http://data.openworm.org/sci/bio/Neuron#PVM> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QL.paa" .
+<http://data.openworm.org/sci/bio/Neuron#PVNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron/motor neuron, post. vent. cord, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#PVNL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TL.appp" .
+<http://data.openworm.org/sci/bio/Neuron#PVNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron/motor neuron, post. vent. cord, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#PVNR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TR.appp" .
+<http://data.openworm.org/sci/bio/Neuron#PVPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, cell body in lumbar ganglion, projects along ventral cord to nerve ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, cell body in lumbar ganglion, projects along ventral cord to nerve ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVQL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, projects along ventral cord to ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVQL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, projects along ventral cord to ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#PVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, projects along ventral cord to ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "C.aappv" .
+<http://data.openworm.org/sci/bio/Neuron#PVT> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, projects along ventral cord to ring" .
+<http://data.openworm.org/sci/bio/Neuron#PVT> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpappppa" .
+<http://data.openworm.org/sci/bio/Neuron#PVWL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, posterior ventral cord, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#PVWL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TL.ppa" .
+<http://data.openworm.org/sci/bio/Neuron#PVWR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Interneuron, posterior ventral cord, few synapses" .
+<http://data.openworm.org/sci/bio/Neuron#PVWR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "TR.ppa" .
+<http://data.openworm.org/sci/bio/Neuron#RIAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RIAL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RIAR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaapppaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaappap" .
+<http://data.openworm.org/sci/bio/Neuron#RIBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaappap" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RICL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RICR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppaaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#RID> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, projects along dorsal cord" .
+<http://data.openworm.org/sci/bio/Neuron#RID> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alappaapa" .
+<http://data.openworm.org/sci/bio/Neuron#RIFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapaaap" .
+<http://data.openworm.org/sci/bio/Neuron#RIFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapaaap" .
+<http://data.openworm.org/sci/bio/Neuron#RIGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppappaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppappaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIH> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIH> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpappaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIML> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIML> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppaapap" .
+<http://data.openworm.org/sci/bio/Neuron#RIMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIMR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppaapap" .
+<http://data.openworm.org/sci/bio/Neuron#RIPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring/pharynx interneuron, only direct connection between pharynx and ring" .
+<http://data.openworm.org/sci/bio/Neuron#RIPL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring/pharynx interneuron, only direct connection between pharynx and ring" .
+<http://data.openworm.org/sci/bio/Neuron#RIPR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prappaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapppaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIS> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpappapa" .
+<http://data.openworm.org/sci/bio/Neuron#RIVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaapaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RIVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RIVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaapaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMDDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpapapaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMDDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappapaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpppapad" .
+<http://data.openworm.org/sci/bio/Neuron#RMDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praaaapad" .
+<http://data.openworm.org/sci/bio/Neuron#RMDVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppapaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMDVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, many synapses" .
+<http://data.openworm.org/sci/bio/Neuron#RMDVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapppaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMED> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMED> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapppaap" .
+<http://data.openworm.org/sci/bio/Neuron#RMEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMEL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaaaarlp" .
+<http://data.openworm.org/sci/bio/Neuron#RMER> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMER> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alaaaarrp" .
+<http://data.openworm.org/sci/bio/Neuron#RMEV> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMEV> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpappaaa" .
+<http://data.openworm.org/sci/bio/Neuron#RMFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMFL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "G2.al" .
+<http://data.openworm.org/sci/bio/Neuron#RMFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMFR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "G2.ar" .
+<http://data.openworm.org/sci/bio/Neuron#RMGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMGL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plapaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#RMGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMGR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prapaaapp" .
+<http://data.openworm.org/sci/bio/Neuron#RMHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMHL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "G1.l" .
+<http://data.openworm.org/sci/bio/Neuron#RMHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#RMHR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "G1.r" .
+<http://data.openworm.org/sci/bio/Neuron#SAADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SAADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppapapa" .
+<http://data.openworm.org/sci/bio/Neuron#SAADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SAADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arapppapa" .
+<http://data.openworm.org/sci/bio/Neuron#SAAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SAAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SAAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SAAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SABD> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1" .
+<http://data.openworm.org/sci/bio/Neuron#SABD> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapaap" .
+<http://data.openworm.org/sci/bio/Neuron#SABVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1" .
+<http://data.openworm.org/sci/bio/Neuron#SABVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SABVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1" .
+<http://data.openworm.org/sci/bio/Neuron#SABVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Post. lateral interneuron, process projects into ring" .
+<http://data.openworm.org/sci/bio/Neuron#SDQL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QL.pap" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ant. lateral interneuron, process projects into ring" .
+<http://data.openworm.org/sci/bio/Neuron#SDQR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "QR.pap" .
+<http://data.openworm.org/sci/bio/Neuron#SIADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapaapa" .
+<http://data.openworm.org/sci/bio/Neuron#SIADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapaapa" .
+<http://data.openworm.org/sci/bio/Neuron#SIAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapappa" .
+<http://data.openworm.org/sci/bio/Neuron#SIAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapappa" .
+<http://data.openworm.org/sci/bio/Neuron#SIBDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIBDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plppaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SIBDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIBDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prppaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SIBVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIBVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapaapp" .
+<http://data.openworm.org/sci/bio/Neuron#SIBVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SIBVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapaapp" .
+<http://data.openworm.org/sci/bio/Neuron#SMBDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMBDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpapapapp" .
+<http://data.openworm.org/sci/bio/Neuron#SMBDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMBDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappapapp" .
+<http://data.openworm.org/sci/bio/Neuron#SMBVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMBVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alpapappp" .
+<http://data.openworm.org/sci/bio/Neuron#SMBVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMBVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappappp" .
+<http://data.openworm.org/sci/bio/Neuron#SMDDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMDDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SMDDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMDDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#SMDVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMDVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alppappaa" .
+<http://data.openworm.org/sci/bio/Neuron#SMDVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally" .
+<http://data.openworm.org/sci/bio/Neuron#SMDVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arappppaa" .
+<http://data.openworm.org/sci/bio/Neuron#URADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#URADL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaaaaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#URADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#URADR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arpapaaaa" .
+<http://data.openworm.org/sci/bio/Neuron#URAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#URAVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#URAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring motor neuron" .
+<http://data.openworm.org/sci/bio/Neuron#URAVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaapaa" .
+<http://data.openworm.org/sci/bio/Neuron#URBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URBL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaapaapa" .
+<http://data.openworm.org/sci/bio/Neuron#URBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URBR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.praapaapa" .
+<http://data.openworm.org/sci/bio/Neuron#URXL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#URXL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plaaaaappp" .
+<http://data.openworm.org/sci/bio/Neuron#URXR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Ring interneuron" .
+<http://data.openworm.org/sci/bio/Neuron#URXR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.arpapaappp" .
+<http://data.openworm.org/sci/bio/Neuron#URYDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URYDL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapapapp" .
+<http://data.openworm.org/sci/bio/Neuron#URYDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URYDR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.alapppapp" .
+<http://data.openworm.org/sci/bio/Neuron#URYVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URYVL> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.plpaaappp" .
+<http://data.openworm.org/sci/bio/Neuron#URYVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Neuron, presynaptic in ring, ending in head" .
+<http://data.openworm.org/sci/bio/Neuron#URYVR> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "AB.prpaaappp" .
+<http://data.openworm.org/sci/bio/Neuron#VA1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "W.pa" .
+<http://data.openworm.org/sci/bio/Neuron#VA10> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA10> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P10.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA11> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA11> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P11.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA12> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles, but also interneuron in preanal ganglion" .
+<http://data.openworm.org/sci/bio/Neuron#VA12> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P12.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P2.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P3.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P4.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P5.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P6.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P7.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA8> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA8> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P8.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VA9> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VA9> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P9.aaaa" .
+<http://data.openworm.org/sci/bio/Neuron#VB1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles, also interneuron in ring" .
+<http://data.openworm.org/sci/bio/Neuron#VB1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P1.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB10> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB10> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P9.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB11> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB11> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P10.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "W.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VB3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P2.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P3.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P4.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P5.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P6.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB8> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB8> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P7.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VB9> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent. cord motor neuron, innervates vent. body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VB9> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P8.aaap" .
+<http://data.openworm.org/sci/bio/Neuron#VC1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P3.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VC2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P4.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VC3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P5.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VC4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P6.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VC5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P7.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VC6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" .
+<http://data.openworm.org/sci/bio/Neuron#VC6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P8.aap" .
+<http://data.openworm.org/sci/bio/Neuron#VD1> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD1> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "W.pp" .
+<http://data.openworm.org/sci/bio/Neuron#VD10> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD10> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P9.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD11> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD11> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P10.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD12> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD12> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P11.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD13> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD13> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P12.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD2> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD2> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P1.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD3> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD3> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P2.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD4> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD4> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P3.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD5> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD5> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P4.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD6> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD6> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P5.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD7> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD7> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P6.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD8> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD8> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P7.app" .
+<http://data.openworm.org/sci/bio/Neuron#VD9> <http://schema.openworm.org/2020/07/sci/bio/Cell/description> "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" .
+<http://data.openworm.org/sci/bio/Neuron#VD9> <http://schema.openworm.org/2020/07/sci/bio/Cell/lineageName> "P8.app" .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADEL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADER> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADFL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADFR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADLL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ADLR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AFDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AFDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIML> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIMR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AINL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AINR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIYL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIYR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIZL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AIZR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ALA> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ALML> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ALMR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ALNL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ALNR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AQR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS10> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS11> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS8> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AS9> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASEL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASER> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASGL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASGR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASHL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASHR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASIL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASIR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASJL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASJR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASKL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#ASKR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AUAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AUAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVEL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVER> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVFL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVFR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVG> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVHL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVHR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVJL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVJR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVKL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVKR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AVM> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWCL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#AWCR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#BAGL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#BAGR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#BDUL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#BDUR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CANL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CANR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CEPDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CEPDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CEPVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#CEPVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA8> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DA9> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DB7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DD6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DVA> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DVB> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#DVC> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#FLPL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#FLPR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#HSNL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#HSNR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I1L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I1R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I2L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I2R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#I6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1DL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1DR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1VL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL1VR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2DL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2DR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2VL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#IL2VR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#LUAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#LUAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M2L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M2R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M3L> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M3R> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#M5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#MCL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#MCR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#MI> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#NSML> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#NSMR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLLL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLLR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLQDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLQDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLQVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#OLQVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PDA> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PDB> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PDEL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PDER> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHCL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PHCR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PLML> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PLMR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PLNL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PLNR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PQR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVCL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVCR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVM> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVNL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVNR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVPL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVPR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVQL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVQR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVT> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVWL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#PVWR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIAL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIAR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RICL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RICR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RID> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIFL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIFR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIGL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIGR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIH> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIML> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIMR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIPL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIPR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIS> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RIVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMDVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMED> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMEL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMER> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMEV> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMFL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMFR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMGL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMGR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMHL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#RMHR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SAADL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SAADR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SAAVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SAAVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SABD> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SABVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SABVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SDQL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SDQR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIADL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIADR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIAVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIAVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIBDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIBDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIBVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SIBVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMBDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMBDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMBVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMBVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMDDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMDDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMDVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#SMDVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URADL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URADR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URAVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URAVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URBL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URBR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URXL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URXR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URYDL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URYDR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URYVL> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#URYVR> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA10> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA11> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA12> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA8> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VA9> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB10> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB11> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB8> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VB9> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VC6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD1> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD10> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD11> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD12> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD13> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD2> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD3> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD4> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD5> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD6> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD7> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD8> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/cell> <http://data.openworm.org/sci/bio/Neuron#VD9> .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://schema.openworm.org/2020/07/sci/bio/Worm/scientific_name> "C. elegans" .
+<http://data.openworm.org/sci/bio/Worm#a8020ed8519038a6bbc98f1792c46c97b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.openworm.org/2020/07/Worm> .
+
