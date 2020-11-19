@@ -1,5 +1,0 @@
-!!python/object:owmeta_core.bundle.Remote
-accessor_configs:
-- !!python/object:owmeta_core.bundle.URLConfig
-  url: https://drive.google.com/uc?id=1NYAcKdcvoFu5c7Nz3l4hK5UacG_eD56V&authuser=0&export=download
-name: google-drive

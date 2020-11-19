@@ -1,0 +1,6 @@
+!!python/object:owmeta_core.bundle.Remote
+accessor_configs:
+- !!python/object:owmeta_core.bundle.loaders.http.HTTPSURLConfig
+  ssl_context_provider: null
+  url: https://raw.githubusercontent.com/openworm/owmeta-bundles/master/index.json
+name: ow
